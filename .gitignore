@@ -1,0 +1,5 @@
+# Hide File in Directory
+iso/*.iso
+iso/*.iso.md5msum
+iso/*.iso.sha1sum
+iso/*.iso.sha2sum
