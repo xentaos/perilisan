@@ -1,5 +1,9 @@
 # Hide File in Directory
-iso/*.iso
-iso/*.iso.md5msum
-iso/*.iso.sha1sum
-iso/*.iso.sha2sum
+project/tester/amd64/*iso
+project/tester/amd64/*iso.md5msum
+project/tester/amd64/*iso.sha1sum
+project/tester/amd64/*iso.sha2sum
+project/tester/i386/*iso
+project/tester/i386/*iso.md5msum
+project/tester/i386/*iso.sha1sum
+project/tester/i386/*iso.sha2sum
