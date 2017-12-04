@@ -1,9 +1,9 @@
-# Hide File in Directory
-project/tester/amd64/*iso
-project/tester/amd64/*iso.md5msum
-project/tester/amd64/*iso.sha1sum
-project/tester/amd64/*iso.sha2sum
-project/tester/i386/*iso
-project/tester/i386/*iso.md5msum
-project/tester/i386/*iso.sha1sum
-project/tester/i386/*iso.sha2sum
+# Ignore
+tester/amd64/*iso
+tester/amd64/*iso.md5msum
+tester/amd64/*iso.sha1sum
+tester/amd64/*iso.sha2sum
+tester/i386/*iso
+tester/i386/*iso.md5msum
+tester/i386/*iso.sha1sum
+tester/i386/*iso.sha2sum
