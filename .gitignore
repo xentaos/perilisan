@@ -1,9 +1,11 @@
 # Ignore
 tester/amd64/*iso
+tester/amd64/*gpg
 tester/amd64/*iso.md5msum
 tester/amd64/*iso.sha1sum
 tester/amd64/*iso.sha2sum
 tester/i386/*iso
+tester/i386/*gpg
 tester/i386/*iso.md5msum
 tester/i386/*iso.sha1sum
 tester/i386/*iso.sha2sum
